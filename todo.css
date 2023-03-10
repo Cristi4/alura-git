@@ -1,0 +1,8 @@
+.todo{
+    display: flex;
+    text-align: center;
+    width: 1440px;
+    height: 5020px;
+    align-items: center;
+    padding-left: 64px;
+}
